@@ -69,8 +69,8 @@ Key patterns:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/jare654/Mobile-app-dev-Internship-.git
-cd Mobile-app-dev-Internship-
+git clone https://github.com/jare654/Pluse-news.git
+cd Pluse-news
 
 # 2. Setup your .env file
 # Create assets/.env and add:
