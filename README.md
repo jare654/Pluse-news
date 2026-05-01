@@ -1,6 +1,6 @@
 # PulseNews — Flutter News Reader App
 
-> **Mobile-app-dev-Internship- | Addis Ababa University**
+> **Mobile-app-dev- | Addis Ababa University**
 
 ---
 
@@ -14,7 +14,7 @@
 
 | Field | Details |
 |---|---|
-| **Name** | Yared Bekele |
+| **Name** | Yared Bekele ATE/3699/15 |
 | **Course** | Mobile Application Development — 4th Year, Semester 2 |
 | **Instructor** | Abel Tadesse |
 
