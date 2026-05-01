@@ -4,6 +4,12 @@
 
 ---
 
+### 🚀 **Submission Quick Links**
+*   **[Download APK & Watch Demo Video](https://github.com/jare654/Pluse-news/releases/tag/v1.0.0)**
+*   **[View Documentation](./docs/ARCHITECTURE.md)**
+
+---
+
 ## 1. Student Information
 
 | Field | Details |
